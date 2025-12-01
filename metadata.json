@@ -1,0 +1,5 @@
+{
+  "name": "e-SUS APS AI Suite",
+  "description": "An AI-powered suite for the Brazilian e-SUS APS system, featuring a Specialist Protocol Chatbot and a Smart Form Generator for clinical records.",
+  "requestFramePermissions": []
+}
